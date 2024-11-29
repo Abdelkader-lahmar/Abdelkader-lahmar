@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, This is Lahmar Abdelkader</h1>
 <h3 align="center">Student from Algeria</h3>
 
-🔭 I’m currently working on [CS50](https://github.com/code50/161894612)
+🔭 I’m currently working on [CS50 Python](https://github.com/code50/161894612)
 
-🌱 I’m currently learning **Flask**
+🌱 I’m currently learning **Python**
 
 📫 How to reach me **lahmarabdelkader2006@gmail.com**
 
