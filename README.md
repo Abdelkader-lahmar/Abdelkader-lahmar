@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me:
 - 🔭 Currently working on **[CS50 Python](https://github.com/code50/161894612)** to deepen my Python expertise.
-- 🌱 Learning **Python**,taking small and steady steps into **web development** and exploring **low-level programming** with C.
+- 🌱 Learning **Python**, taking small and steady steps into **web development** and exploring **low-level programming** with C.
 - 🎯 Aspiring to specialize in **AI** or **system-level programming**, with a strong interest in problem-solving.
 - 📧 Reach me at **lahmarabdelkader2006@gmail.com**.
 - 🌐 Connect with me on **[LinkedIn](https://www.linkedin.com/in/abdelkader-lahmar-8988332b7/)**.
